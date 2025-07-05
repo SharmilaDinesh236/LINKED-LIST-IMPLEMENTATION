@@ -42,3 +42,4 @@ Using this toolset, I successfully implemented a singly linked list in C with th
 
 *OUTPUT* : 
 
+<img width="1920" height="1021" alt="Image" src="https://github.com/user-attachments/assets/241a48a3-09cd-4da4-816b-2314ec56de5c" />
