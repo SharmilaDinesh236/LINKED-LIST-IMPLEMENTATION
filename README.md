@@ -39,3 +39,7 @@ User inputs menu choices and data values.
 Outputs include linked list display and confirmation messages like "Deleted" or "Inserted".
 
 Using this toolset, I successfully implemented a singly linked list in C with the operations of insertion, deletion, and traversal. The tools like the editor and compiler made it easier to write, test, and debug the program in a structured and systematic way.
+
+*OUTPUT* : 
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/cee9a3a7-0716-4c3f-a60e-a165caa91e26" />
